@@ -25,7 +25,7 @@ This project implements an Intrusion Detection System (IDS) using Support Vector
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/intrusion-detection-svm.git
+git clone https://github.com/SaiSreeKoneru/IDS-SVD
 
 Install Dependencies:
 
